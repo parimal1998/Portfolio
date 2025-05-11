@@ -7,8 +7,8 @@
 This portfolio showcases a collection of my academic and personal projects across data visualization, data analytics, machine learning, and database systems.
 It reflects my skills in designing interactive dashboards, building predictive models, and performing complex data transformations using modern tools and frameworks.
 
-## 🚀 Projects
-### 🔧 1. Predictive Maintenance of Renewable Plant Using Digital Twins
+# 🚀 Projects
+# 🔧 1. Predictive Maintenance of Renewable Plant Using Digital Twins
 
 This project focuses on integrating digital twin technology with machine learning to implement predictive maintenance strategies for renewable energy systems, such as solar panels and wind turbines.
 
@@ -25,7 +25,7 @@ This project focuses on integrating digital twin technology with machine learnin
 Feel free to explore the repository for detailed documentation and implementation specifics.
 
 
-### 📊 2.  Aggregation Pipeline Using MongoDB
+# 📊 2.  Aggregation Pipeline Using MongoDB
 
 This project demonstrates the use of MongoDB's aggregation pipeline to analyze real-world scholarship data. It includes multi-stage queries utilizing operators such as `$match`, `$group`, `$addFields`, `$facet`, and `$bucket`, along with visualizations via MongoDB Atlas.
 
@@ -41,7 +41,7 @@ This project demonstrates the use of MongoDB's aggregation pipeline to analyze r
 
 Feel free to explore the repository for detailed documentation and implementation specifics.
 
-### 📊 3. SQL Analytical Functions
+# 📊 3. SQL Analytical Functions
 
 This project offers a comprehensive collection of examples and use-cases for SQL Analytical (Window) Functions, covering key concepts such as `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, `NTILE()`, `LEAD()`, `LAG()`, `SUM() OVER`, and more.
 
@@ -78,7 +78,7 @@ For a deeper understanding of SQL analytical functions, consider exploring the f
 
 Feel free to explore the repository for detailed documentation and implementation specifics. If you have any questions or suggestions, please open an issue or submit a pull request.
 
-### 🚴‍♂️ 4. Bike Store Performance Dashboard – Power BI Project
+# 🚴‍♂️ 4. Bike Store Performance Dashboard – Power BI Project
 
 This project presents a comprehensive Power BI dashboard designed to analyze a bike store’s sales performance. It provides insights into revenue, profit, product categories, customer segments, and regional breakdowns, facilitating data-driven decision-making in retail analytics.
 
@@ -101,7 +101,7 @@ This project presents a comprehensive Power BI dashboard designed to analyze a b
 
 Feel free to explore the repository for detailed documentation and implementation specifics. If you have any questions or suggestions, please open an issue or submit a pull request.
 
-### 🏠🚗 5. Machine Learning: House Pricing & Car Classification
+# 🏠🚗 5. Machine Learning: House Pricing & Car Classification
 
 This project demonstrates the application of machine learning algorithms to predict house prices and classify car types based on provided datasets. It leverages data preprocessing, feature engineering, and model evaluation techniques to deliver accurate predictions.
 
